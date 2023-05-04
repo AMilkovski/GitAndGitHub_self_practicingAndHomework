@@ -1,6 +1,6 @@
 package Day1_selfPracticing;
 /*
-public class SimpleTask {
+public abstract class SimpleTask {
 
     private String firstName, lastName;
     private final int age;
@@ -73,8 +73,12 @@ public class SimpleTask {
                 '}';
     }
 
+    public abstract void  whoYouDrivingFor ();
+
+    public abstract String howLongInUS ();
 
 
 
 
-}*/
+}
+*/
