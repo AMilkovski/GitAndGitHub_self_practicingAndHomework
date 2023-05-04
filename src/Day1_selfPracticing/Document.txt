@@ -8,4 +8,4 @@ In second step we created two child classes
 
 Third step was to create test class to check if everything is working properly
 
-Test was done succesfully!!!
+Test was done successfully!!!
