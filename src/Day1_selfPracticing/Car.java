@@ -1,4 +1,4 @@
-//package Day1_selfPracticing;
+package Day1_selfPracticing;
 /*
 public class Car extends SimpleTask {
 
@@ -13,8 +13,10 @@ public class Car extends SimpleTask {
 
     @Override
     public String howLongInUS() {
-        System.out.println(getLastName() + " is new in the country");
+        String str3 = getLastName() + " is new in the country";
+
+        return str3;
     }
 
 
-}*/
+}  */

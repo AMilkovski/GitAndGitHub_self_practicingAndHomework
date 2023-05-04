@@ -17,4 +17,5 @@ public class Truck extends SimpleTask{
         String st1 = getFirstName() + " " + getLastName() + "living in US for 8 years";
         return st1;
     }
-}*/
+}
+*/

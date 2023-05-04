@@ -1,4 +1,4 @@
-package Day1_selfPracticing;
+//package Day1_selfPracticing;
 /*
 public abstract class SimpleTask {
 
