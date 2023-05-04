@@ -1,0 +1,11 @@
+Hello there
+
+Here is quick review of today practice:
+
+We created Parent class
+
+In second step we created two child classes
+
+Third step was to create test class to check if everything is working properly
+
+Test was done succesfully!!!
